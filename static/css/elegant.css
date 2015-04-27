@@ -120,7 +120,7 @@ pre {
     word-break: normal;
     word-wrap: normal;
 }
-td.code .highlight pre {
+td.code .codehilite pre {
     border-radius: 0 3px 3px 0;
 }
 td.code {
@@ -131,7 +131,7 @@ td.code {
     border-radius: 3px 0 0 3px;
     color: #657b83;
 }
-div.highlight {
+div.codehilite {
     margin-bottom: 20px;
 }
 /* Tags */
